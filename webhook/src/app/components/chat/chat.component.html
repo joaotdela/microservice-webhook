@@ -1,0 +1,14 @@
+<div class="container">
+
+  <div class="chat">
+    <h2>Chat</h2>
+    <input class="input-user" type="text"  [(ngModel)]="userName" placeholder="Digite o seu nome">
+    <div class="mensagens" *ngFor="let mensagem of mensagens">
+        {{ mensagem }}
+    </div>
+    <textarea [(ngModel)]="novaMensagem"></textarea>
+    <button (click)="enviarMensagem()">Enviar</button>
+  </div>
+</div>
+
+<router-outlet />

@@ -1,0 +1,58 @@
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/appsettings.Development.json
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/appsettings.json
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/webchat
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/webchat.deps.json
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/webchat.runtimeconfig.json
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/webchat.dll
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/webchat.pdb
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.GeneratedMSBuildEditorConfig.editorconfig
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.AssemblyInfoInputs.cache
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.AssemblyInfo.cs
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.csproj.CoreCompileInputs.cache
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.MvcApplicationPartsAssemblyInfo.cache
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/staticwebassets.build.json
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/staticwebassets.development.json
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/staticwebassets/msbuild.webchat.Microsoft.AspNetCore.StaticWebAssets.props
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/staticwebassets/msbuild.build.webchat.props
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.webchat.props
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.webchat.props
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/staticwebassets.pack.json
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/scopedcss/bundle/webchat.styles.css
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.dll
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/refint/webchat.dll
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.pdb
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.genruntimeconfig.cache
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/ref/webchat.dll
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/ioshi/codes/chat/webchat/bin/Debug/net8.0/System.Net.WebSockets.WebSocketProtocol.dll
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.csproj.AssemblyReference.cache
+/home/ioshi/codes/chat/webchat/obj/Debug/net8.0/webchat.csproj.Up2Date
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.dll
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\refint\webchat.dll
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.pdb
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\appsettings.Development.json
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\appsettings.json
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\webchat.exe
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\webchat.deps.json
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\webchat.runtimeconfig.json
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\webchat.dll
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\webchat.pdb
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Meus Arquivos\Code\angular\chat\webchat\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.csproj.AssemblyReference.cache
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.AssemblyInfoInputs.cache
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.AssemblyInfo.cs
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.csproj.CoreCompileInputs.cache
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.MvcApplicationPartsAssemblyInfo.cache
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\staticwebassets.build.json
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\staticwebassets.development.json
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\staticwebassets\msbuild.webchat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\staticwebassets\msbuild.build.webchat.props
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.webchat.props
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.webchat.props
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\scopedcss\bundle\webchat.styles.css
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.csproj.Up2Date
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\webchat.genruntimeconfig.cache
+D:\Meus Arquivos\Code\angular\chat\webchat\obj\Debug\net8.0\ref\webchat.dll
